@@ -95,6 +95,38 @@
 - Promocionar un vídeo-anuncio poco atractivo da visualizaciones pero pocas conversiones. Si se vuelve a pagar, que sea sobre un vídeo de contenido que ya haya funcionado bien de forma orgánica.
 - Con un objetivo de autofinanciación (~13,5 €/mes de costes), el gasto en anuncios tiene que estar muy controlado. Prioridad: contenido orgánico; anuncios solo como acelerador puntual.
 
+## 3c. Discord: estado actual (2026-11-24)
+
+> Las capturas de Discord **no** se guardan en el repo porque muestran nombres y estados de otros miembros. Aquí solo se resume lo que se ve.
+
+- **Miembros:** 52 en total (no 30), con unos 12–17 conectados. Servidor con la función de "Comunidad" de Discord activada.
+- **Flujo de entrada (funciona bien):**
+  1. Preguntas de presentación (onboarding de Discord).
+  2. Canal `#welcome`: AmberBot muestra un mensaje "Join in seconds" con los botones **Link Minecraft account** y **Check my access**.
+  3. Al vincular, AmberBot asigna el usuario de Discord a su cuenta de Minecraft Java y lo **añade automáticamente a la whitelist** por RCON. No hace falta que el staff apruebe nada.
+- **Estructura de canales actual:**
+  - `#welcome`
+  - **Server-info:** `#server-ip`, `#smp-rules`
+  - **Text Channels:** `#general`, `#anouncements` (sic), `#suggestions`. Están bloqueados hasta que el usuario se verifica.
+  - **Voice Channels:** `room-1` … `room-4` (algunos con límite de 4 o 6 personas)
+- **Observaciones:**
+  1. `#general` está lleno de **mensajes automáticos de "X se ha unido"** y casi no hay conversación. Da sensación de servidor vacío.
+  2. **Errata:** `anouncements` → `announcements`.
+  3. El mensaje de bienvenida menciona `#rules`, pero el canal se llama `#smp-rules`. Hay que comprobar que el enlace funciona.
+  4. **Posible abandono en la entrada:** en la lista de miembros de `#general` (canal bloqueado) aparecen unas 32 personas, contando a AmberBot, de 52. Si `#general` solo lo ven los verificados, **unas 20 personas entraron y no terminaron de vincular su cuenta**. Está pendiente confirmarlo.
+  5. Faltan canales para lo que define la comunidad: construcciones y capturas, proyectos comunitarios, chat del juego, eventos. Tampoco se ven roles con identidad propia.
+  6. Varios miembros llevan la **etiqueta de servidor** (server tag) de otros servidores de Minecraft (por ejemplo DSMP, LC). Una etiqueta propia de Ambergates sería publicidad gratuita; requiere mejoras (boosts) del servidor.
+  7. Los nombres de los canales de voz (`room-1…4`) son genéricos: es una oportunidad para darles personalidad de marca.
+
+### Propuesta de estructura (pocos canales, todo en inglés)
+Con unos 30 usuarios activos, **demasiados canales dispersan la actividad**. Propuesta:
+- **📌 START HERE:** `#welcome` (verificación), `#rules`, `#how-to-join` (IP y pasos), `#announcements`
+- **💬 COMMUNITY:** `#general`, `#showcase` (capturas y construcciones), `#suggestions`
+- **⛏️ SMP:** `#projects` (canal foro: un hilo por proyecto comunitario o granja), `#ingame-chat` (puente con el juego, si se hace)
+- **🔊 VOICE:** 2–3 canales con nombres temáticos (p. ej. `Overworld`, `Nether`, `The End`)
+- **Más adelante:** `#support-the-server` (Ko-fi y barra de objetivo mensual)
+- Mover los mensajes de bienvenida del sistema fuera de `#general` (a `#welcome` o desactivarlos).
+
 ## 3b. Restricciones a tener en cuenta para el negocio
 
 Las **Minecraft Usage Guidelines / EULA de Mojang** limitan cómo se puede monetizar un servidor (conviene revisar la versión vigente):
@@ -126,6 +158,7 @@ Las **Minecraft Usage Guidelines / EULA de Mojang** limitan cómo se puede monet
 - Público objetivo: toda Europa. Ya existe un logo y hay pruebas en redes (TikTok @ambergates_smp). No se pudo acceder al perfil desde la nube.
 - El usuario manda capturas de TikTok (guardadas en `docs/capturas/`). Se analizan el perfil y el logo (sección 3a). Staff: solo el usuario, con Claude como apoyo.
 - Se aclara que el vídeo de 15,8 mil fue una promoción pagada. El usuario pide aparcar el tema de las redes y pasar a revisar su servidor de Discord con capturas.
+- Revisión de Discord (sección 3c): 52 miembros. Whitelist automática al vincular la cuenta de Java con AmberBot por RCON. Se detectan un `#general` lleno de mensajes de entrada, una errata, un posible abandono en la verificación y que faltan canales de comunidad. Se propone una estructura nueva.
 
 ## 6. Notas para el asistente del proyecto definitivo
 
