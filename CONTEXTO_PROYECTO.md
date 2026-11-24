@@ -87,7 +87,13 @@
 3. **La llamada a la acción no es coherente:** los vídeos dicen "IP in the comments" y la bio dice "IP at our Discord".
 4. Seguir a mucha más gente de la que te sigue (341 frente a 53) da imagen de follow-for-follow.
 5. El texto grande en el centro tapa el gameplay, que es lo que engancha.
-6. Lo positivo: la marca visual es **coherente y reconocible**, el inglés es el idioma correcto y el vídeo de 15,8 mil demuestra que hay alcance posible.
+6. Lo positivo: la marca visual es **coherente y reconocible** y el inglés es el idioma correcto.
+7. **Corrección:** el vídeo de 15,8 mil fue una **promoción pagada** (TikTok Promote), no alcance orgánico. El alcance orgánico real está entre 77 y 650 visualizaciones por vídeo y va a la baja.
+
+**Sobre la publicidad pagada:**
+- Antes de volver a pagar, medir cuánto costó cada miembro nuevo de Discord: coste de la promoción ÷ entradas a Discord atribuibles.
+- Promocionar un vídeo-anuncio poco atractivo da visualizaciones pero pocas conversiones. Si se vuelve a pagar, que sea sobre un vídeo de contenido que ya haya funcionado bien de forma orgánica.
+- Con un objetivo de autofinanciación (~13,5 €/mes de costes), el gasto en anuncios tiene que estar muy controlado. Prioridad: contenido orgánico; anuncios solo como acelerador puntual.
 
 ## 3b. Restricciones a tener en cuenta para el negocio
 
