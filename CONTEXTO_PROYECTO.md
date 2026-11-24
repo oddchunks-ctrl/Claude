@@ -76,6 +76,7 @@
 - **Logo:** `<A>` / `<AMBERGATES>` con tipografía de bloques en 3D, degradado de amarillo a naranja ámbar y sombra en rojo oscuro o granate, con chevrons `< >` a los lados. Funciona bien a tamaño pequeño (el icono `<A>`) y casa con el nombre.
   - **Paleta de marca deducida:** amarillo ámbar, naranja, rojo oscuro o granate y fondos oscuros.
 - **Redes sociales:** capturas guardadas en `docs/capturas/`.
+  - **YouTube:** hay canal con contenido parecido al de TikTok. No se pudo revisar desde la nube porque la red del entorno bloquea YouTube; está pendiente de capturas.
 
 ### Análisis de TikTok @ambergates_smp (2026-11-24)
 - Bio: "Minecraft 26.2 Vanilla SMP server. (Java) IP at our DISCORD ⬇️" + enlace de invitación a Discord. Historia destacada "IP" con la invitación.
