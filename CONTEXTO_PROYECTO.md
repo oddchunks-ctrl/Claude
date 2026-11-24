@@ -17,24 +17,47 @@
 
 ## 2. Descripción del proyecto
 
-_Pendiente: el usuario aún no ha explicado el proyecto._
+### AMBERGATES SMP
 
-- Nombre:
-- Objetivo / qué hace:
-- Stack tecnológico (lenguajes, frameworks, librerías):
-- Estructura del repositorio (carpetas principales):
-- Estado actual:
+- **Qué es:** servidor de Minecraft SMP Vanilla.
+- **Objetivo:** comunidad técnica y de construcción, de ambiente casual, con proyectos comunitarios (granjas, etc.).
+- **Base técnica (resumen):**
+  - Fabric + Lithium en el servidor, pero se puede entrar con el cliente Vanilla sin instalar nada.
+  - Varios mods programados a medida para la gestión.
+  - Algunos datapacks que no alteran la experiencia Vanilla.
+  - Hosting: PebbleHost, 8 GB de RAM.
+  - Conectado con Discord mediante RCON.
+- **Discord:**
+  - Unos 30 miembros. El servidor de Discord todavía está "verde" (poco desarrollado).
+  - Bot propio: **AmberBot**, alojado en Railway. Tiene su propio repositorio en GitHub (el usuario lo compartirá cuando esté en su PC).
+- **Estado actual:** servidor ya lanzado.
+
+> Nota: en esta sesión provisional **no** se tratan los detalles técnicos del servidor de Minecraft.
+> El foco aquí es el proyecto en conjunto: **marca, redes sociales y plan de negocio a futuro**.
 
 ## 3. Decisiones tomadas
 
 | Fecha | Decisión | Motivo |
 |-------|----------|--------|
 | 2026-11-24 | Llevar un registro en `CONTEXTO_PROYECTO.md` con todo lo hablado | Poder pasarlo al proyecto definitivo cuando haya acceso al repositorio |
+| 2026-11-24 | En esta sesión no se tocan temas técnicos del servidor; solo marca, redes y negocio | Preferencia del usuario |
+
+## 3b. Restricciones a tener en cuenta para el negocio
+
+Las **Minecraft Usage Guidelines / EULA de Mojang** limitan cómo se puede monetizar un servidor (conviene revisar la versión vigente):
+- Se puede cobrar por **cosméticos** y aceptar **donaciones**, pero no vender **ventajas de juego** (pay-to-win: ítems, recursos, poder, etc.).
+- Todos los jugadores deben pagar el mismo precio por lo mismo.
+- La marca no puede dar a entender que Mojang o Microsoft la respaldan ni usar "Minecraft" como parte del nombre de la marca.
+- Para un SMP Vanilla, encaja bien de por sí: lo que se puede monetizar es la comunidad, los cosméticos y el contenido, no el juego.
 
 ## 4. Tareas / pendientes
 
-- [ ] Explicar el proyecto (sección 2).
+- [x] Explicar el proyecto (sección 2).
+- [ ] Definir la identidad de marca (tono, público, propuesta de valor).
+- [ ] Definir la estrategia de redes sociales.
+- [ ] Esbozar el plan de negocio / monetización.
 - [ ] Clonar / adjuntar el repositorio real cuando el usuario tenga acceso al PC.
+- [ ] Compartir el repositorio de AmberBot.
 - [ ] Adjuntar este documento al nuevo proyecto.
 
 ## 5. Registro cronológico de la conversación
@@ -43,6 +66,8 @@ _Pendiente: el usuario aún no ha explicado el proyecto._
 - El usuario explica la situación: necesita trabajar sobre un repositorio que está en su PC, pero no está en casa.
 - Se acuerda usar este chat como provisional y documentar todo en este `.md`.
 - Se crea este documento y se sube a la rama de trabajo.
+- El usuario resume el proyecto: AMBERGATES SMP (ver sección 2). Pide centrar esta sesión en marca, redes y plan de negocio, no en lo técnico.
+- Se apuntan las restricciones de la EULA de Mojang que afectan a la monetización (sección 3b).
 
 ## 6. Notas para el asistente del proyecto definitivo
 
