@@ -41,6 +41,7 @@
 |-------|----------|--------|
 | 2026-11-24 | Llevar un registro en `CONTEXTO_PROYECTO.md` con todo lo hablado | Poder pasarlo al proyecto definitivo cuando haya acceso al repositorio |
 | 2026-11-24 | En esta sesión no se tocan temas técnicos del servidor; solo marca, redes y negocio | Preferencia del usuario |
+| 2026-11-24 | **Solo cuentas premium** (Minecraft Java original); no se aceptan no premium | Decisión del usuario. Explica parte de la fuga en la verificación de Discord |
 | 2026-11-24 | **Objetivo del proyecto: hobby que se pague solo y deje algo de beneficio extra** | Definido por el usuario. No se busca escalar a red de servidores ni vivir de ello |
 
 ### Implicaciones del objetivo (hobby autofinanciado + algo de beneficio)
@@ -121,7 +122,9 @@
 ### Teoría del usuario sobre la fuga en la verificación
 - **Hipótesis:** muchos de los que no terminan de vincular la cuenta tienen **Minecraft no premium** (sin licencia original de Java). El servidor comprueba las cuentas premium, así que no pueden entrar.
 - **Indicio a favor:** en las capturas se ve a un miembro jugando con **SKlauncher**, un launcher muy usado por jugadores no premium.
-- **Pendiente:** confirmar con datos (p. ej. si AmberBot registra los intentos de vinculación fallidos y su motivo). Hay que tener en cuenta que admitir cuentas no premium tiene implicaciones de seguridad y de cumplimiento de la EULA; se tratará cuando el usuario quiera.
+- **Decisión del usuario:** el servidor **solo acepta cuentas premium**, y por eso se produce la fuga. Es una decisión consciente, no un fallo.
+- Por tanto, la fuga en la verificación es en buena parte **esperada**: son jugadores no premium que encuentran el Discord pero no pueden jugar.
+- **Pendiente (opcional):** cuantificarlo con datos (p. ej. que AmberBot registre los intentos de vinculación fallidos y su motivo).
 
 ### Propuesta de estructura (pocos canales, todo en inglés)
 > ⚠️ **Sugerencias sin aprobar.** El usuario mandó las capturas solo para dar contexto del estado actual y prefiere dejar las sugerencias para más adelante. No aplicar nada sin consultarle.
