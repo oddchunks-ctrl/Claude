@@ -10,3 +10,4 @@
 - Se crean subroles; se eliminan los que no se habían pedido y queda `marketing/`.
 - Marketing: guía de guiones (6 referencias) · ideas A–J · se aprueban D2, D3, J1 y H3 · estadísticas de TT · calendario aprobado.
 - Se reorganiza la documentación para gastar pocos tokens, se crea `GUIA_ESCRITURA.md` y se aplica al máximo: las decisiones pasan a `PROYECTO.md §0` y el calendario y los vídeos se unen en `plan-contenido.md`.
+- Se crea `AMPLIACION.md`: normas para que el repo siga optimizado al crecer.

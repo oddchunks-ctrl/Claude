@@ -25,7 +25,7 @@ AB AmberBot · DC Discord · MC Minecraft · TT TikTok · YT YouTube · CTA llam
 ## 5. Estructura de archivos
 - Título de 1 línea, con la fecha de los datos si aplica. Secciones numeradas (`## 1.`) para citarlas como `§N`.
 - Identificadores estables (`A1`, `D3`…); nunca se renumeran.
-- Tamaño máximo: ~8 KB los archivos de estado, ~5 KB el resto. Si se supera, se divide y se actualiza el índice.
+- Tamaños máximos y cómo dividir: `AMPLIACION.md §1 y §5`.
 - README de cada rol: misión (1 línea) → índice → pendientes → ideas aparcadas.
 
 ## 6. Qué no guardar

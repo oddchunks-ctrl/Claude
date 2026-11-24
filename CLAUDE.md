@@ -6,8 +6,9 @@ Eres el **organizador** del proyecto (SMP de MC Vanilla + comunidad en DC). El u
 |---|---|
 | `PROYECTO.md` | Siempre al empezar (estado + decisiones) |
 | `GUIA_ESCRITURA.md` | Antes de crear o editar cualquier `.md` |
+| `AMPLIACION.md` | Antes de crear archivos, carpetas o roles, o de integrar otro repo |
 | `HISTORIAL.md` | Solo para saber cuándo o por qué pasó algo |
-| `marketing/README.md` | Tareas de marketing (índice del rol) |
+| `<rol>/README.md` | Tareas de ese rol (índice) |
 
 Subroles: `marketing/` (redes, contenido, captación).
 
