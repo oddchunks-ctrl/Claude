@@ -118,6 +118,11 @@
   6. Varios miembros llevan la **etiqueta de servidor** (server tag) de otros servidores de Minecraft (por ejemplo DSMP, LC). Una etiqueta propia de Ambergates sería publicidad gratuita; requiere mejoras (boosts) del servidor.
   7. Los nombres de los canales de voz (`room-1…4`) son genéricos: es una oportunidad para darles personalidad de marca.
 
+### Teoría del usuario sobre la fuga en la verificación
+- **Hipótesis:** muchos de los que no terminan de vincular la cuenta tienen **Minecraft no premium** (sin licencia original de Java). El servidor comprueba las cuentas premium, así que no pueden entrar.
+- **Indicio a favor:** en las capturas se ve a un miembro jugando con **SKlauncher**, un launcher muy usado por jugadores no premium.
+- **Pendiente:** confirmar con datos (p. ej. si AmberBot registra los intentos de vinculación fallidos y su motivo). Hay que tener en cuenta que admitir cuentas no premium tiene implicaciones de seguridad y de cumplimiento de la EULA; se tratará cuando el usuario quiera.
+
 ### Propuesta de estructura (pocos canales, todo en inglés)
 > ⚠️ **Sugerencias sin aprobar.** El usuario mandó las capturas solo para dar contexto del estado actual y prefiere dejar las sugerencias para más adelante. No aplicar nada sin consultarle.
 
@@ -162,6 +167,7 @@ Las **Minecraft Usage Guidelines / EULA de Mojang** limitan cómo se puede monet
 - Se aclara que el vídeo de 15,8 mil fue una promoción pagada. El usuario pide aparcar el tema de las redes y pasar a revisar su servidor de Discord con capturas.
 - Revisión de Discord (sección 3c): 52 miembros. Whitelist automática al vincular la cuenta de Java con AmberBot por RCON. Se detectan un `#general` lleno de mensajes de entrada, una errata, un posible abandono en la verificación y que faltan canales de comunidad. Se propone una estructura nueva.
 - El usuario aclara que las capturas eran **solo de contexto**. Las sugerencias sobre Discord quedan aparcadas para más adelante. Preferencia: mientras da contexto, **escuchar y registrar sin proponer cambios** salvo que lo pida.
+- Teoría del usuario: la fuga en la verificación se debe a jugadores con Minecraft no premium (sección 3c).
 
 ## 6. Notas para el asistente del proyecto definitivo
 
