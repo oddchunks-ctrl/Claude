@@ -125,6 +125,7 @@ Las **Minecraft Usage Guidelines / EULA de Mojang** limitan cómo se puede monet
 - Costes: PebbleHost ~9 €/mes y Railway 5 USD/mes (acumulable). Total ~13,5 €/mes. Se fijan objetivos de 15 € (cubierto) y 25 € (con margen).
 - Público objetivo: toda Europa. Ya existe un logo y hay pruebas en redes (TikTok @ambergates_smp). No se pudo acceder al perfil desde la nube.
 - El usuario manda capturas de TikTok (guardadas en `docs/capturas/`). Se analizan el perfil y el logo (sección 3a). Staff: solo el usuario, con Claude como apoyo.
+- Se aclara que el vídeo de 15,8 mil fue una promoción pagada. El usuario pide aparcar el tema de las redes y pasar a revisar su servidor de Discord con capturas.
 
 ## 6. Notas para el asistente del proyecto definitivo
 
