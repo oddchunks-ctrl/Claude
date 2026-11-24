@@ -9,10 +9,10 @@
 
 ## 0. Estructura de trabajo
 
-Claude actúa como **organizador** con varios **subroles**, cada uno con su carpeta y su `README.md` (las instrucciones están en `CLAUDE.md`):
-`organizacion/` · `marca/` · `marketing/` · `comunidad/` · `negocio/` · `desarrollo/`
+Claude actúa como **organizador** y asume **subroles**, cada uno con su carpeta y su `README.md` (las instrucciones están en `CLAUDE.md`).
+**El usuario define los subroles poco a poco.** De momento solo existe: `marketing/`.
 
-Este documento es el **registro maestro** (historial y decisiones). Los README de cada rol tienen el estado actual y los pendientes de su área.
+Este documento es el **registro maestro** (historial y decisiones).
 
 ## 1. Situación de partida
 
@@ -49,7 +49,7 @@ Este documento es el **registro maestro** (historial y decisiones). Los README d
 | 2026-11-24 | Llevar un registro en `CONTEXTO_PROYECTO.md` con todo lo hablado | Poder pasarlo al proyecto definitivo cuando haya acceso al repositorio |
 | 2026-11-24 | En esta sesión no se tocan temas técnicos del servidor; solo marca, redes y negocio | Preferencia del usuario |
 | 2026-11-24 | **Solo cuentas premium** (Minecraft Java original); no se aceptan no premium | Decisión del usuario. Explica parte de la fuga en la verificación de Discord |
-| 2026-11-24 | Claude como organizador con subroles, cada uno con su carpeta | Petición del usuario |
+| 2026-11-24 | Claude como organizador con subroles, cada uno con su carpeta. **Los roles los define el usuario poco a poco**; de momento solo marketing | Petición del usuario |
 | 2026-11-24 | **Vínculo obligatorio Discord ↔ Minecraft** en la whitelist | Imprescindible para el usuario; cualquier cambio en la admisión debe respetarlo |
 | 2026-11-24 | **Objetivo del proyecto: hobby que se pague solo y deje algo de beneficio extra** | Definido por el usuario. No se busca escalar a red de servidores ni vivir de ello |
 
@@ -216,6 +216,7 @@ Las **Minecraft Usage Guidelines / EULA de Mojang** limitan cómo se puede monet
 - No se puede entrar al Discord manualmente; la alternativa es usar el token de AmberBot más adelante.
 - Se añade a la sesión el repo `oddchunks-ctrl/amberbot` y se resume (sección 3d). Se detectan el rol Supporter con bonus de chunks (posible problema con la EULA) y unos registros útiles para medir la fuga.
 - El usuario define la forma de trabajar: **Claude es el organizador, con subroles temáticos, cada uno con su carpeta**. Se crean `CLAUDE.md` y las carpetas `organizacion/`, `marca/`, `marketing/`, `comunidad/`, `negocio/` y `desarrollo/`, con su README. Las capturas pasan a `marketing/capturas/`.
+- El usuario pide **no adelantarse**: los roles los irá estableciendo él. Se eliminan las carpetas creadas de más y se deja solo `marketing/`.
 
 ## 6. Notas para el asistente del proyecto definitivo
 
