@@ -76,7 +76,7 @@ Combinación que exige poco tiempo de grabación y alterna alcance, comunidad y 
 |---|---|---|---|
 | H1 | Novedades de la versión 26.2 enseñadas dentro del servidor | Novedad | "3 things in 26.2 nobody is talking about." |
 | H2 | Por qué el servidor no tiene lag (Lithium y normas de rendimiento) | Curiosidad | "Why our technical server doesn't lag." |
-| H3 | Mitos y verdades de Minecraft | Error común | "You've been doing this wrong for years." |
+| H3 ✅ | Mitos y verdades de Minecraft | Error común | "You've been doing this wrong for years." |
 
 ## Pilar I — Normas y valores como contenido
 | # | Idea | Gancho | Ejemplo de gancho |
@@ -88,5 +88,5 @@ Combinación que exige poco tiempo de grabación y alterna alcance, comunidad y 
 ## Pilar J — Participación de la comunidad
 | # | Idea | Gancho | Ejemplo de gancho |
 |---|---|---|---|
-| J1 | Concurso para poner nombre a una zona o un proyecto | Comentarios | "Help us name this place. Best comment wins." |
+| J1 ✅ | Concurso para poner nombre a una zona o un proyecto | Comentarios | "Help us name this place. Best comment wins." |
 | J2 | Reto de construcción con tema y vídeo de los resultados | Serie / evento | "We gave our players one theme and one week." |
