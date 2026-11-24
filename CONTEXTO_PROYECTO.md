@@ -64,6 +64,15 @@
 
 - Modelo recomendado: **suscripción de apoyo recurrente** (Ko-fi, Patreon o suscripciones de servidor de Discord) con recompensas cosméticas o sociales, más donaciones puntuales.
 
+## 3a. Marca y redes
+
+- **Público objetivo:** toda Europa (no solo España).
+  - Implicación: el **inglés** debería ser el idioma principal (servidor, Discord, redes), con canales o contenido en otros idiomas (p. ej. español) como complemento.
+  - La zona horaria de referencia es Europa central (CET), útil para fijar eventos y horas de publicación.
+- **Logo:** ya existe (pendiente de que el usuario lo comparta o lo describa).
+- **Redes sociales:** hay pruebas iniciales.
+  - TikTok: [@ambergates_smp](https://www.tiktok.com/@ambergates_smp). Desde la sesión en la nube no se pudo revisar: la red del entorno bloquea TikTok y además la web suele exigir JavaScript o inicio de sesión.
+
 ## 3b. Restricciones a tener en cuenta para el negocio
 
 Las **Minecraft Usage Guidelines / EULA de Mojang** limitan cómo se puede monetizar un servidor (conviene revisar la versión vigente):
@@ -92,6 +101,7 @@ Las **Minecraft Usage Guidelines / EULA de Mojang** limitan cómo se puede monet
 - Se apuntan las restricciones de la EULA de Mojang que afectan a la monetización (sección 3b).
 - Objetivo definido: hobby que se pague solo con algo de beneficio extra. Se propone un modelo de apoyo recurrente con recompensas cosméticas o sociales.
 - Costes: PebbleHost ~9 €/mes y Railway 5 USD/mes (acumulable). Total ~13,5 €/mes. Se fijan objetivos de 15 € (cubierto) y 25 € (con margen).
+- Público objetivo: toda Europa. Ya existe un logo y hay pruebas en redes (TikTok @ambergates_smp). No se pudo acceder al perfil desde la nube.
 
 ## 6. Notas para el asistente del proyecto definitivo
 
