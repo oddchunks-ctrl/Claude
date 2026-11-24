@@ -41,6 +41,14 @@
 |-------|----------|--------|
 | 2026-11-24 | Llevar un registro en `CONTEXTO_PROYECTO.md` con todo lo hablado | Poder pasarlo al proyecto definitivo cuando haya acceso al repositorio |
 | 2026-11-24 | En esta sesión no se tocan temas técnicos del servidor; solo marca, redes y negocio | Preferencia del usuario |
+| 2026-11-24 | **Objetivo del proyecto: hobby que se pague solo y deje algo de beneficio extra** | Definido por el usuario. No se busca escalar a red de servidores ni vivir de ello |
+
+### Implicaciones del objetivo (hobby autofinanciado + algo de beneficio)
+- Prioridad 1: cubrir los costes fijos (PebbleHost + Railway) con ingresos recurrentes.
+- Prioridad 2: un pequeño excedente para mejoras, eventos, premios o beneficio personal.
+- Mantener una carga de trabajo baja: nada de monetización que exija mucho tiempo de gestión.
+- No sacrificar la esencia Vanilla ni la comunidad por ingresos (va contra la EULA y además espantaría al público técnico).
+- Modelo recomendado: **suscripción de apoyo recurrente** (Ko-fi, Patreon o suscripciones de servidor de Discord) con recompensas cosméticas o sociales, más donaciones puntuales.
 
 ## 3b. Restricciones a tener en cuenta para el negocio
 
@@ -68,6 +76,7 @@ Las **Minecraft Usage Guidelines / EULA de Mojang** limitan cómo se puede monet
 - Se crea este documento y se sube a la rama de trabajo.
 - El usuario resume el proyecto: AMBERGATES SMP (ver sección 2). Pide centrar esta sesión en marca, redes y plan de negocio, no en lo técnico.
 - Se apuntan las restricciones de la EULA de Mojang que afectan a la monetización (sección 3b).
+- Objetivo definido: hobby que se pague solo con algo de beneficio extra. Se propone un modelo de apoyo recurrente con recompensas cosméticas o sociales.
 
 ## 6. Notas para el asistente del proyecto definitivo
 
