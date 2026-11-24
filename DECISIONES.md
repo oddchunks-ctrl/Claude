@@ -25,3 +25,4 @@
 | 2026-11-24 | Los detalles técnicos del servidor no se tratan salvo que el usuario lo pida; el foco está en marca, redes y negocio. |
 | 2026-11-24 | Las capturas de Discord eran solo de contexto; las sugerencias sobre Discord quedan aparcadas. |
 | 2026-11-24 | Documentación optimizada para leerse en futuros proyectos con el mínimo de tokens y sin perder información. |
+| 2026-11-24 | Toda la documentación sigue `GUIA_ESCRITURA.md`. |

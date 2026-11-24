@@ -17,3 +17,4 @@
   - Estadísticas de TikTok: búsquedas 16 %, 2,9 s de visualización media y 1 % de vídeos vistos enteros.
   - Calendario aprobado desde el 28 nov.
 - Se reorganiza toda la documentación para leerla con pocos tokens: `CLAUDE.md`, `PROYECTO.md`, `DECISIONES.md`, `HISTORIAL.md` y `marketing/`.
+- Se crea `GUIA_ESCRITURA.md`, con las normas de escritura de la documentación, a petición del usuario.
