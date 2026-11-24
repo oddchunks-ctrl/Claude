@@ -219,6 +219,7 @@ Las **Minecraft Usage Guidelines / EULA de Mojang** limitan cómo se puede monet
 - El usuario pide **no adelantarse**: los roles los irá estableciendo él. Se eliminan las carpetas creadas de más y se deja solo `marketing/`.
 - **Marketing:** el usuario aporta 5 transcripciones de TikToks similares y la captura de un POV de comunidad. Se analiza su estructura y se crea la guía maestra `marketing/guia-estilo-guiones.md` (v0.1), con las referencias en `marketing/referencias/`.
 - El usuario pide ideas de contenido. Se crea `marketing/ideas-contenido.md` con 19 ideas en 5 pilares (lore, proyectos técnicos, comunidad, tutoriales, detrás de las cámaras), **no aprobadas**.
+- El usuario **aprueba D2 (`/inspect`) y D3 (cómo entrar en 30 s)**. Se crea `marketing/videos-pendientes.md` y se añade una segunda tanda de 16 ideas (pilares F–J, no aprobadas).
 
 ## 6. Notas para el asistente del proyecto definitivo
 

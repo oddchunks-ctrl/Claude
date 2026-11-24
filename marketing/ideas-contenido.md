@@ -1,6 +1,7 @@
 # Banco de ideas de contenido
 
 > ⚠️ **Ideas no aprobadas** (propuesta del 2026-11-24). El usuario decide cuáles se desarrollan.
+> ✅ = aprobada y movida a `videos-pendientes.md`.
 > Los tipos de gancho y la estructura siguen `guia-estilo-guiones.md`. Ganchos en inglés.
 
 ## Pilar A — El lore del mundo (lo que nos diferencia)
@@ -31,8 +32,8 @@
 | # | Idea | Gancho | Ejemplo de gancho |
 |---|---|---|---|
 | D1 | Cosas que saber antes de unirte (borde, End, claims, sin mods) | Lista con bucle abierto | "4 things you need to know before joining AmberGates." |
-| D2 | Te roban y lo resuelves con `/inspect` | Identificación | "If you've ever logged in to find your chests empty…" |
-| D3 | Cómo entrar en 30 segundos (Discord → vincular → jugar) | Paso a paso | "Joining our server takes 30 seconds. Here's how." |
+| D2 ✅ | Te roban y lo resuelves con `/inspect` | Identificación | "If you've ever logged in to find your chests empty…" |
+| D3 ✅ | Cómo entrar en 30 segundos (Discord → vincular → jugar) | Paso a paso | "Joining our server takes 30 seconds. Here's how." |
 | D4 | Vanilla puro: no hace falta instalar nada | Imperativo | "Stop installing 40 mods just to join a server." |
 
 ## Pilar E — Detrás de las cámaras (el creador)
@@ -49,3 +50,43 @@ Combinación que exige poco tiempo de grabación y alterna alcance, comunidad y 
 3. **C1** (provoca comentarios).
 4. **E2** (humaniza la marca).
 5. **B1** (requiere un proyecto en marcha; se graba mientras se construye).
+
+---
+
+# Tanda 2 (2026-11-24): ideas no aprobadas
+
+## Pilar F — Humor y tendencias
+| # | Idea | Gancho | Ejemplo de gancho |
+|---|---|---|---|
+| F1 | Tipos de jugadores en nuestro servidor (el que hace granjas, el decorador, el que se pierde…) | Lista / humor | "Every SMP has these 5 players." |
+| F2 | Lo que pasa en cualquier SMP frente a lo que pasa en AmberGates | Comparación | "Other SMPs vs our SMP." |
+| F3 | Adivina qué hace este circuito de redstone | Comentarios | "Guess what this redstone does. Wrong answers only." |
+| F4 | Puntuar bases de jugadores del 1 al 10 (con su permiso) | Lista / serie | "Rating our players' bases. #3 surprised me." |
+
+## Pilar G — Series recurrentes (vídeos rápidos de producir)
+| # | Idea | Gancho | Ejemplo de gancho |
+|---|---|---|---|
+| G1 | Resumen semanal en 15 segundos | Serie | "This week on AmberGates." |
+| G2 | El primer día de un jugador nuevo (con su permiso) | Historia | "He joined yesterday. Look what he built in 24 hours." |
+| G3 | Ruta por el spawn y las zonas comunitarias | Recorrido | "Welcome to AmberGates. Let me show you around." |
+| G4 | Responder a comentarios con vídeo | Respuesta | "Someone asked if our server is pay-to-win…" |
+
+## Pilar H — Técnico y educativo (público de Vanilla técnico)
+| # | Idea | Gancho | Ejemplo de gancho |
+|---|---|---|---|
+| H1 | Novedades de la versión 26.2 enseñadas dentro del servidor | Novedad | "3 things in 26.2 nobody is talking about." |
+| H2 | Por qué el servidor no tiene lag (Lithium y normas de rendimiento) | Curiosidad | "Why our technical server doesn't lag." |
+| H3 | Mitos y verdades de Minecraft | Error común | "You've been doing this wrong for years." |
+
+## Pilar I — Normas y valores como contenido
+| # | Idea | Gancho | Ejemplo de gancho |
+|---|---|---|---|
+| I1 | Una norma clave explicada | Curiosidad | "Our server has 9 rules. This one matters most." |
+| I2 | El PvP solo si ambos aceptan | Imperativo | "Stop getting killed while building." |
+| I3 | No es pay-to-win | Imperativo / confianza | "No ranks to buy. No kits. Just Minecraft." |
+
+## Pilar J — Participación de la comunidad
+| # | Idea | Gancho | Ejemplo de gancho |
+|---|---|---|---|
+| J1 | Concurso para poner nombre a una zona o un proyecto | Comentarios | "Help us name this place. Best comment wins." |
+| J2 | Reto de construcción con tema y vídeo de los resultados | Serie / evento | "We gave our players one theme and one week." |
