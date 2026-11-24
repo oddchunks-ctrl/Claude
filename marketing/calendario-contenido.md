@@ -1,6 +1,7 @@
-# Calendario de contenido: propuesta
+# Calendario de contenido
 
-> ⚠️ **Propuesta no aprobada** (2026-11-24). Pendiente de validar con el usuario.
+> ✅ **Calendario aprobado por el usuario (2026-11-24). Es el calendario a seguir.**
+> Los **huecos libres** se completarán más adelante con ideas que el usuario apruebe.
 > Arranca el **sábado 28 nov 2026**, cuando termine de publicarse el contenido programado con el formato antiguo (último: 27 nov).
 > Solo usa los **vídeos aprobados** de `videos-pendientes.md` (D2, D3, J1, H3). H3 y J1 se repiten como formato (otro mito, otra zona).
 
@@ -43,7 +44,7 @@
 | Sáb 19 dic | 12:00 | *Hueco libre* | Mejor formato de las semanas 1–3. |
 | Mar 22 dic | 21:30 (B) | *Hueco libre* | Último vídeo antes de Navidad; no se publica el 24 ni el 25. |
 
-## Producción (si se aprueba)
+## Producción
 | Cuándo | Tarea |
 |---|---|
 | 25–27 nov | Escribir los guiones de **D3** y **H3 #1** (Claude) y elegir el mito. |

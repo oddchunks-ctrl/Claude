@@ -49,6 +49,7 @@ Este documento es el **registro maestro** (historial y decisiones).
 | 2026-11-24 | Llevar un registro en `CONTEXTO_PROYECTO.md` con todo lo hablado | Poder pasarlo al proyecto definitivo cuando haya acceso al repositorio |
 | 2026-11-24 | En esta sesión no se tocan temas técnicos del servidor; solo marca, redes y negocio | Preferencia del usuario |
 | 2026-11-24 | **Solo cuentas premium** (Minecraft Java original); no se aceptan no premium | Decisión del usuario. Explica parte de la fuga en la verificación de Discord |
+| 2026-11-24 | **Calendario de contenido aprobado** (`marketing/calendario-contenido.md`): martes, jueves y sábado; huecos por completar | Decisión del usuario |
 | 2026-11-24 | La nueva estrategia de contenido empieza cuando terminen los vídeos programados (último: 27 nov) | Decisión del usuario |
 | 2026-11-24 | Claude como organizador con subroles, cada uno con su carpeta. **Los roles los define el usuario poco a poco**; de momento solo marketing | Petición del usuario |
 | 2026-11-24 | **Vínculo obligatorio Discord ↔ Minecraft** en la whitelist | Imprescindible para el usuario; cualquier cambio en la admisión debe respetarlo |
@@ -225,7 +226,7 @@ Las **Minecraft Usage Guidelines / EULA de Mojang** limitan cómo se puede monet
 - Se cierran los vídeos por ahora. Siguiente paso: el usuario mandará capturas de las estadísticas de TikTok (TikTok Studio) para un análisis detallado y un **calendario de publicación**.
 - Primera tanda de estadísticas (7 días) registrada en `marketing/estadisticas-tiktok.md`. Destaca: 16 % del tráfico viene de búsquedas (granjas 26.2, servidores Java), público de 18 a 34 años y 40 % de España. Faltan los datos por vídeo y los de la promoción.
 - Estadísticas de un vídeo tipo: **2,9 s de visualización media y 1 % de vídeos vistos enteros**, así que el gancho no funciona. Las búsquedas tienen intención de unirse a un servidor ("minecraft smp to join", "vanilla servers"). La promoción pagada fue un fracaso y el usuario no quiere analizarla. **La nueva estrategia de contenido empieza cuando acabe lo programado (a partir del 28 nov).**
-- Propuesta de calendario (**no aprobada**) en `marketing/calendario-contenido.md`: 3 vídeos a la semana (martes, jueves y sábado), prueba de franjas 18:00 / 21:30 CET y 12:00 los sábados, D3 fijado en el perfil y revisión a las 48 h.
+- Calendario en `marketing/calendario-contenido.md`, **aprobado por el usuario como calendario a seguir** (los huecos libres se completarán más adelante): 3 vídeos a la semana (martes, jueves y sábado), prueba de franjas 18:00 / 21:30 CET y 12:00 los sábados, D3 fijado en el perfil y revisión a las 48 h.
 
 ## 6. Notas para el asistente del proyecto definitivo
 

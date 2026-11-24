@@ -17,7 +17,7 @@
 
 ## Documentos
 - `guia-estilo-guiones.md`: **guía maestra de estilo para guiones de contenido vertical** (v0.1, en construcción).
-- `calendario-contenido.md`: propuesta de calendario desde el 28 nov (**no aprobada**).
+- `calendario-contenido.md`: **calendario aprobado** desde el 28 nov (huecos libres por completar).
 - `estadisticas-tiktok.md`: datos de TikTok Studio y primeras lecturas.
 - `videos-pendientes.md`: **vídeos aprobados** y su estado (D2, D3, J1, H3).
 - `ideas-contenido.md`: banco de ideas de contenido por pilares (**no aprobadas**).
@@ -26,7 +26,9 @@
 
 ## Pendientes
 - [ ] Calcular el coste por miembro de la promoción pagada (gasto ÷ entradas a Discord).
-- [ ] Calendario de contenidos (el usuario lo ha aparcado por ahora).
+- [x] Calendario de contenidos (aprobado el 2026-11-24).
+- [ ] Completar los huecos libres del calendario (10, 17, 19 y 22 dic).
+- [ ] Guiones de D3 y H3 #1 (25–27 nov) y grabar D3 antes del 28 nov.
 
 ## Ideas aparcadas (no aprobadas)
 - Contenido en lugar de anuncios: timelapses, granjas, "día X en AmberGates", construcciones de jugadores.
