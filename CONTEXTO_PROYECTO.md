@@ -42,6 +42,7 @@
 | 2026-11-24 | Llevar un registro en `CONTEXTO_PROYECTO.md` con todo lo hablado | Poder pasarlo al proyecto definitivo cuando haya acceso al repositorio |
 | 2026-11-24 | En esta sesión no se tocan temas técnicos del servidor; solo marca, redes y negocio | Preferencia del usuario |
 | 2026-11-24 | **Solo cuentas premium** (Minecraft Java original); no se aceptan no premium | Decisión del usuario. Explica parte de la fuga en la verificación de Discord |
+| 2026-11-24 | **Vínculo obligatorio Discord ↔ Minecraft** en la whitelist | Imprescindible para el usuario; cualquier cambio en la admisión debe respetarlo |
 | 2026-11-24 | **Objetivo del proyecto: hobby que se pague solo y deje algo de beneficio extra** | Definido por el usuario. No se busca escalar a red de servidores ni vivir de ello |
 
 ### Implicaciones del objetivo (hobby autofinanciado + algo de beneficio)
@@ -124,6 +125,8 @@
 - **Indicio a favor:** en las capturas se ve a un miembro jugando con **SKlauncher**, un launcher muy usado por jugadores no premium.
 - **Decisión del usuario:** el servidor **solo acepta cuentas premium**, y por eso se produce la fuga. Es una decisión consciente, no un fallo.
 - Por tanto, la fuga en la verificación es en buena parte **esperada**: son jugadores no premium que encuentran el Discord pero no pueden jugar.
+- **Objetivo del usuario:** mejorar el proceso de admisión para reducir la fuga **al mínimo**.
+- **Requisito innegociable:** cada jugador debe quedar **vinculado Discord ↔ usuario de Minecraft** mediante la whitelist. Cualquier mejora del proceso tiene que mantener ese vínculo.
 - **Pendiente (opcional):** cuantificarlo con datos (p. ej. que AmberBot registre los intentos de vinculación fallidos y su motivo).
 
 ### Propuesta de estructura (pocos canales, todo en inglés)
@@ -148,6 +151,7 @@ Las **Minecraft Usage Guidelines / EULA de Mojang** limitan cómo se puede monet
 ## 4. Tareas / pendientes
 
 - [x] Explicar el proyecto (sección 2).
+- [ ] Mejorar el proceso de admisión para reducir la fuga, manteniendo obligatorio el vínculo Discord ↔ Minecraft en la whitelist.
 - [ ] Definir la identidad de marca (tono, público, propuesta de valor).
 - [ ] Definir la estrategia de redes sociales.
 - [ ] Esbozar el plan de negocio / monetización.
