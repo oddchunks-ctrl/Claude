@@ -222,6 +222,7 @@ Las **Minecraft Usage Guidelines / EULA de Mojang** limitan cómo se puede monet
 - El usuario **aprueba D2 (`/inspect`) y D3 (cómo entrar en 30 s)**. Se crea `marketing/videos-pendientes.md` y se añade una segunda tanda de 16 ideas (pilares F–J, no aprobadas).
 - El usuario aprueba también **J1 (concurso de nombre) y H3 (mitos y verdades)**; se añaden a `videos-pendientes.md`. Aclaración: **J1 no es un concurso real**, solo una pregunta al aire para provocar comentarios y enseñar el servidor.
 - Se cierran los vídeos por ahora. Siguiente paso: el usuario mandará capturas de las estadísticas de TikTok (TikTok Studio) para un análisis detallado y un **calendario de publicación**.
+- Primera tanda de estadísticas (7 días) registrada en `marketing/estadisticas-tiktok.md`. Destaca: 16 % del tráfico viene de búsquedas (granjas 26.2, servidores Java), público de 18 a 34 años y 40 % de España. Faltan los datos por vídeo y los de la promoción.
 
 ## 6. Notas para el asistente del proyecto definitivo
 

@@ -17,6 +17,7 @@
 
 ## Documentos
 - `guia-estilo-guiones.md`: **guía maestra de estilo para guiones de contenido vertical** (v0.1, en construcción).
+- `estadisticas-tiktok.md`: datos de TikTok Studio y primeras lecturas.
 - `videos-pendientes.md`: **vídeos aprobados** y su estado (D2, D3, J1, H3).
 - `ideas-contenido.md`: banco de ideas de contenido por pilares (**no aprobadas**).
 - `referencias/`: transcripciones y capturas de TikToks de referencia.
