@@ -76,6 +76,7 @@
 - **Posicionamiento:** "Peaceful, cooperative, casual technical Minecraft 26.2 Vanilla. No client mods required." / "Build, farm and create together."
 
 ## 7. Pendientes
+- [ ] ⚠️ Hacer privado el repo `oddchunks-ctrl/Claude` (ahora es público; lo hace el usuario).
 - [ ] Mejorar la admisión para reducir la fuga, respetando el vínculo DC ↔ MC.
 - [ ] Medir la fuga con la SQLite de AB.
 - [ ] Revisar el bonus de chunks de Supporter (EULA).
