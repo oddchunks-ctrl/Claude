@@ -69,9 +69,25 @@
 - **Público objetivo:** toda Europa (no solo España).
   - Implicación: el **inglés** debería ser el idioma principal (servidor, Discord, redes), con canales o contenido en otros idiomas (p. ej. español) como complemento.
   - La zona horaria de referencia es Europa central (CET), útil para fijar eventos y horas de publicación.
-- **Logo:** ya existe (pendiente de que el usuario lo comparta o lo describa).
-- **Redes sociales:** hay pruebas iniciales.
-  - TikTok: [@ambergates_smp](https://www.tiktok.com/@ambergates_smp). Desde la sesión en la nube no se pudo revisar: la red del entorno bloquea TikTok y además la web suele exigir JavaScript o inicio de sesión.
+- **Idioma actual:** todo en inglés (TikTok, textos). Encaja con el público europeo.
+- **Staff:** solo el usuario. Claude hace de apoyo en estrategia, contenido y programación. **El tiempo es el recurso más escaso**, así que hay que priorizar lo que se pueda automatizar (AmberBot, publicaciones programadas).
+- **Logo:** `<A>` / `<AMBERGATES>` con tipografía de bloques en 3D, degradado de amarillo a naranja ámbar y sombra en rojo oscuro o granate, con chevrons `< >` a los lados. Funciona bien a tamaño pequeño (el icono `<A>`) y casa con el nombre.
+  - **Paleta de marca deducida:** amarillo ámbar, naranja, rojo oscuro o granate y fondos oscuros.
+- **Redes sociales:** capturas guardadas en `docs/capturas/`.
+
+### Análisis de TikTok @ambergates_smp (2026-11-24)
+- Bio: "Minecraft 26.2 Vanilla SMP server. (Java) IP at our DISCORD ⬇️" + enlace de invitación a Discord. Historia destacada "IP" con la invitación.
+- Métricas: **53 seguidores, 341 seguidos, 44 me gusta**. Unos 20 vídeos publicados y varios programados (27/11, 26/11…).
+- Visualizaciones: un vídeo **fijado con 15,8 mil**; los primeros rondan las 640–650 y bajan con el tiempo hasta 77–275 en los más recientes.
+- Todos los vídeos usan la **misma plantilla**: un clip de gameplay con el logo grande en el centro y el texto "Minecraft Vanilla SMP Server [Java] [26.2] [FREE access 24/7] Ip in the comments / Ip at comments".
+
+**Diagnóstico:**
+1. Los vídeos son **anuncios, no contenido**: el mismo mensaje una y otra vez. El algoritmo y la audiencia se cansan, y por eso bajan las visualizaciones.
+2. La interacción es muy baja (44 me gusta en unas 20.000 visualizaciones): nadie tiene un motivo para dar me gusta, comentar o seguir.
+3. **La llamada a la acción no es coherente:** los vídeos dicen "IP in the comments" y la bio dice "IP at our Discord".
+4. Seguir a mucha más gente de la que te sigue (341 frente a 53) da imagen de follow-for-follow.
+5. El texto grande en el centro tapa el gameplay, que es lo que engancha.
+6. Lo positivo: la marca visual es **coherente y reconocible**, el inglés es el idioma correcto y el vídeo de 15,8 mil demuestra que hay alcance posible.
 
 ## 3b. Restricciones a tener en cuenta para el negocio
 
@@ -102,6 +118,7 @@ Las **Minecraft Usage Guidelines / EULA de Mojang** limitan cómo se puede monet
 - Objetivo definido: hobby que se pague solo con algo de beneficio extra. Se propone un modelo de apoyo recurrente con recompensas cosméticas o sociales.
 - Costes: PebbleHost ~9 €/mes y Railway 5 USD/mes (acumulable). Total ~13,5 €/mes. Se fijan objetivos de 15 € (cubierto) y 25 € (con margen).
 - Público objetivo: toda Europa. Ya existe un logo y hay pruebas en redes (TikTok @ambergates_smp). No se pudo acceder al perfil desde la nube.
+- El usuario manda capturas de TikTok (guardadas en `docs/capturas/`). Se analizan el perfil y el logo (sección 3a). Staff: solo el usuario, con Claude como apoyo.
 
 ## 6. Notas para el asistente del proyecto definitivo
 
