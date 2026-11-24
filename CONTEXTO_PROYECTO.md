@@ -49,6 +49,7 @@ Este documento es el **registro maestro** (historial y decisiones).
 | 2026-11-24 | Llevar un registro en `CONTEXTO_PROYECTO.md` con todo lo hablado | Poder pasarlo al proyecto definitivo cuando haya acceso al repositorio |
 | 2026-11-24 | En esta sesión no se tocan temas técnicos del servidor; solo marca, redes y negocio | Preferencia del usuario |
 | 2026-11-24 | **Solo cuentas premium** (Minecraft Java original); no se aceptan no premium | Decisión del usuario. Explica parte de la fuga en la verificación de Discord |
+| 2026-11-24 | La nueva estrategia de contenido empieza cuando terminen los vídeos programados (último: 27 nov) | Decisión del usuario |
 | 2026-11-24 | Claude como organizador con subroles, cada uno con su carpeta. **Los roles los define el usuario poco a poco**; de momento solo marketing | Petición del usuario |
 | 2026-11-24 | **Vínculo obligatorio Discord ↔ Minecraft** en la whitelist | Imprescindible para el usuario; cualquier cambio en la admisión debe respetarlo |
 | 2026-11-24 | **Objetivo del proyecto: hobby que se pague solo y deje algo de beneficio extra** | Definido por el usuario. No se busca escalar a red de servidores ni vivir de ello |
@@ -223,6 +224,7 @@ Las **Minecraft Usage Guidelines / EULA de Mojang** limitan cómo se puede monet
 - El usuario aprueba también **J1 (concurso de nombre) y H3 (mitos y verdades)**; se añaden a `videos-pendientes.md`. Aclaración: **J1 no es un concurso real**, solo una pregunta al aire para provocar comentarios y enseñar el servidor.
 - Se cierran los vídeos por ahora. Siguiente paso: el usuario mandará capturas de las estadísticas de TikTok (TikTok Studio) para un análisis detallado y un **calendario de publicación**.
 - Primera tanda de estadísticas (7 días) registrada en `marketing/estadisticas-tiktok.md`. Destaca: 16 % del tráfico viene de búsquedas (granjas 26.2, servidores Java), público de 18 a 34 años y 40 % de España. Faltan los datos por vídeo y los de la promoción.
+- Estadísticas de un vídeo tipo: **2,9 s de visualización media y 1 % de vídeos vistos enteros**, así que el gancho no funciona. Las búsquedas tienen intención de unirse a un servidor ("minecraft smp to join", "vanilla servers"). La promoción pagada fue un fracaso y el usuario no quiere analizarla. **La nueva estrategia de contenido empieza cuando acabe lo programado (a partir del 28 nov).**
 
 ## 6. Notas para el asistente del proyecto definitivo
 
