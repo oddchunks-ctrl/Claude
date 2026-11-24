@@ -217,6 +217,7 @@ Las **Minecraft Usage Guidelines / EULA de Mojang** limitan cómo se puede monet
 - Se añade a la sesión el repo `oddchunks-ctrl/amberbot` y se resume (sección 3d). Se detectan el rol Supporter con bonus de chunks (posible problema con la EULA) y unos registros útiles para medir la fuga.
 - El usuario define la forma de trabajar: **Claude es el organizador, con subroles temáticos, cada uno con su carpeta**. Se crean `CLAUDE.md` y las carpetas `organizacion/`, `marca/`, `marketing/`, `comunidad/`, `negocio/` y `desarrollo/`, con su README. Las capturas pasan a `marketing/capturas/`.
 - El usuario pide **no adelantarse**: los roles los irá estableciendo él. Se eliminan las carpetas creadas de más y se deja solo `marketing/`.
+- **Marketing:** el usuario aporta 5 transcripciones de TikToks similares y la captura de un POV de comunidad. Se analiza su estructura y se crea la guía maestra `marketing/guia-estilo-guiones.md` (v0.1), con las referencias en `marketing/referencias/`.
 
 ## 6. Notas para el asistente del proyecto definitivo
 

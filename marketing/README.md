@@ -15,6 +15,11 @@
 3. El texto grande en el centro tapa el gameplay.
 4. Seguir a muchas más cuentas de las que te siguen da imagen de follow-for-follow.
 
+## Documentos
+- `guia-estilo-guiones.md`: **guía maestra de estilo para guiones de contenido vertical** (v0.1, en construcción).
+- `referencias/`: transcripciones y capturas de TikToks de referencia.
+- `capturas/`: capturas del perfil de TikTok de AmberGates.
+
 ## Pendientes
 - [ ] Calcular el coste por miembro de la promoción pagada (gasto ÷ entradas a Discord).
 - [ ] Calendario de contenidos (el usuario lo ha aparcado por ahora).
