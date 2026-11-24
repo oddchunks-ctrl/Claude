@@ -119,6 +119,8 @@
   7. Los nombres de los canales de voz (`room-1…4`) son genéricos: es una oportunidad para darles personalidad de marca.
 
 ### Propuesta de estructura (pocos canales, todo en inglés)
+> ⚠️ **Sugerencias sin aprobar.** El usuario mandó las capturas solo para dar contexto del estado actual y prefiere dejar las sugerencias para más adelante. No aplicar nada sin consultarle.
+
 Con unos 30 usuarios activos, **demasiados canales dispersan la actividad**. Propuesta:
 - **📌 START HERE:** `#welcome` (verificación), `#rules`, `#how-to-join` (IP y pasos), `#announcements`
 - **💬 COMMUNITY:** `#general`, `#showcase` (capturas y construcciones), `#suggestions`
@@ -159,6 +161,7 @@ Las **Minecraft Usage Guidelines / EULA de Mojang** limitan cómo se puede monet
 - El usuario manda capturas de TikTok (guardadas en `docs/capturas/`). Se analizan el perfil y el logo (sección 3a). Staff: solo el usuario, con Claude como apoyo.
 - Se aclara que el vídeo de 15,8 mil fue una promoción pagada. El usuario pide aparcar el tema de las redes y pasar a revisar su servidor de Discord con capturas.
 - Revisión de Discord (sección 3c): 52 miembros. Whitelist automática al vincular la cuenta de Java con AmberBot por RCON. Se detectan un `#general` lleno de mensajes de entrada, una errata, un posible abandono en la verificación y que faltan canales de comunidad. Se propone una estructura nueva.
+- El usuario aclara que las capturas eran **solo de contexto**. Las sugerencias sobre Discord quedan aparcadas para más adelante. Preferencia: mientras da contexto, **escuchar y registrar sin proponer cambios** salvo que lo pida.
 
 ## 6. Notas para el asistente del proyecto definitivo
 
