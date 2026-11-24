@@ -7,7 +7,7 @@
 |----|-------|----------------|-------------|----------|--------|----------|
 | D2 | Te roban y lo resuelves con `/inspect` | Identificación | "If you've ever logged in to find your chests empty…" | 25–35 s | Pendiente de guion | 2026-11-24 |
 | D3 | Cómo entrar en 30 segundos (Discord → vincular cuenta → jugar) | Paso a paso | "Joining our server takes 30 seconds. Here's how." | 25–35 s | Pendiente de guion | 2026-11-24 |
-| J1 | Concurso para poner nombre a una zona o un proyecto | Comentarios | "Help us name this place. Best comment wins." | 10–20 s | Pendiente de guion | 2026-11-24 |
+| J1 | Pregunta al aire sobre el nombre de una zona o un proyecto (sin concurso real) | Comentarios | "What would you name this place?" | 10–20 s | Pendiente de guion | 2026-11-24 |
 | H3 | Mitos y verdades de Minecraft | Error común | "You've been doing this wrong for years." | 20–35 s | Pendiente de guion | 2026-11-24 |
 
 ## Notas por vídeo
@@ -23,11 +23,11 @@
 - Dejar claro de forma natural que es **Java y con cuenta original** (puede ayudar a reducir la fuga en la admisión).
 - ⚠️ No enseñar la IP en el vídeo: el flujo es Discord → vincular → IP.
 
-### J1 — Concurso de nombre
-- Objetivo: **comentarios** (el algoritmo los premia) y sentimiento de pertenencia.
-- Necesita una zona o proyecto concreto que enseñar (p. ej. una granja comunitaria o una zona del spawn).
-- Definir antes qué gana el ganador. Debe ser **un premio no pay-to-win**: el nombre en un cartel, un rol en Discord, aparecer en el siguiente vídeo…
-- Cerrar el ciclo con un segundo vídeo anunciando el nombre ganador (contenido de seguimiento).
+### J1 — Pregunta al aire: "What would you name this place?"
+- **No es un concurso real:** es una pregunta abierta para provocar **comentarios** y, de paso, enseñar una zona o un proyecto del servidor.
+- No hay ganador ni premio, así que no se promete nada.
+- Necesita una zona o proyecto vistoso que enseñar (p. ej. una granja comunitaria o una zona del spawn).
+- La misma fórmula sirve para otras preguntas abiertas ("What should we build next?", "Rate this build 1–10").
 
 ### H3 — Mitos y verdades
 - Formato que puede convertirse en **serie** (un mito por vídeo).

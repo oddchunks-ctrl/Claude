@@ -88,5 +88,5 @@ Combinación que exige poco tiempo de grabación y alterna alcance, comunidad y 
 ## Pilar J — Participación de la comunidad
 | # | Idea | Gancho | Ejemplo de gancho |
 |---|---|---|---|
-| J1 ✅ | Concurso para poner nombre a una zona o un proyecto | Comentarios | "Help us name this place. Best comment wins." |
+| J1 ✅ | Pregunta al aire sobre el nombre de una zona (sin concurso real) | Comentarios | "What would you name this place?" |
 | J2 | Reto de construcción con tema y vídeo de los resultados | Serie / evento | "We gave our players one theme and one week." |
