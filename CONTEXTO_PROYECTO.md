@@ -7,6 +7,13 @@
 
 ---
 
+## 0. Estructura de trabajo
+
+Claude actúa como **organizador** con varios **subroles**, cada uno con su carpeta y su `README.md` (las instrucciones están en `CLAUDE.md`):
+`organizacion/` · `marca/` · `marketing/` · `comunidad/` · `negocio/` · `desarrollo/`
+
+Este documento es el **registro maestro** (historial y decisiones). Los README de cada rol tienen el estado actual y los pendientes de su área.
+
 ## 1. Situación de partida
 
 - **Fecha de inicio:** 2026-11-24
@@ -42,6 +49,7 @@
 | 2026-11-24 | Llevar un registro en `CONTEXTO_PROYECTO.md` con todo lo hablado | Poder pasarlo al proyecto definitivo cuando haya acceso al repositorio |
 | 2026-11-24 | En esta sesión no se tocan temas técnicos del servidor; solo marca, redes y negocio | Preferencia del usuario |
 | 2026-11-24 | **Solo cuentas premium** (Minecraft Java original); no se aceptan no premium | Decisión del usuario. Explica parte de la fuga en la verificación de Discord |
+| 2026-11-24 | Claude como organizador con subroles, cada uno con su carpeta | Petición del usuario |
 | 2026-11-24 | **Vínculo obligatorio Discord ↔ Minecraft** en la whitelist | Imprescindible para el usuario; cualquier cambio en la admisión debe respetarlo |
 | 2026-11-24 | **Objetivo del proyecto: hobby que se pague solo y deje algo de beneficio extra** | Definido por el usuario. No se busca escalar a red de servidores ni vivir de ello |
 
@@ -75,7 +83,7 @@
 - **Staff:** solo el usuario. Claude hace de apoyo en estrategia, contenido y programación. **El tiempo es el recurso más escaso**, así que hay que priorizar lo que se pueda automatizar (AmberBot, publicaciones programadas).
 - **Logo:** `<A>` / `<AMBERGATES>` con tipografía de bloques en 3D, degradado de amarillo a naranja ámbar y sombra en rojo oscuro o granate, con chevrons `< >` a los lados. Funciona bien a tamaño pequeño (el icono `<A>`) y casa con el nombre.
   - **Paleta de marca deducida:** amarillo ámbar, naranja, rojo oscuro o granate y fondos oscuros.
-- **Redes sociales:** capturas guardadas en `docs/capturas/`.
+- **Redes sociales:** capturas guardadas en `marketing/capturas/`.
   - **YouTube:** hay canal con contenido parecido al de TikTok. No se pudo revisar desde la nube porque la red del entorno bloquea YouTube; está pendiente de capturas.
 
 ### Análisis de TikTok @ambergates_smp (2026-11-24)
@@ -198,7 +206,7 @@ Las **Minecraft Usage Guidelines / EULA de Mojang** limitan cómo se puede monet
 - Objetivo definido: hobby que se pague solo con algo de beneficio extra. Se propone un modelo de apoyo recurrente con recompensas cosméticas o sociales.
 - Costes: PebbleHost ~9 €/mes y Railway 5 USD/mes (acumulable). Total ~13,5 €/mes. Se fijan objetivos de 15 € (cubierto) y 25 € (con margen).
 - Público objetivo: toda Europa. Ya existe un logo y hay pruebas en redes (TikTok @ambergates_smp). No se pudo acceder al perfil desde la nube.
-- El usuario manda capturas de TikTok (guardadas en `docs/capturas/`). Se analizan el perfil y el logo (sección 3a). Staff: solo el usuario, con Claude como apoyo.
+- El usuario manda capturas de TikTok (guardadas en `marketing/capturas/`). Se analizan el perfil y el logo (sección 3a). Staff: solo el usuario, con Claude como apoyo.
 - Se aclara que el vídeo de 15,8 mil fue una promoción pagada. El usuario pide aparcar el tema de las redes y pasar a revisar su servidor de Discord con capturas.
 - Revisión de Discord (sección 3c): 52 miembros. Whitelist automática al vincular la cuenta de Java con AmberBot por RCON. Se detectan un `#general` lleno de mensajes de entrada, una errata, un posible abandono en la verificación y que faltan canales de comunidad. Se propone una estructura nueva.
 - El usuario aclara que las capturas eran **solo de contexto**. Las sugerencias sobre Discord quedan aparcadas para más adelante. Preferencia: mientras da contexto, **escuchar y registrar sin proponer cambios** salvo que lo pida.
@@ -207,6 +215,7 @@ Las **Minecraft Usage Guidelines / EULA de Mojang** limitan cómo se puede monet
 - YouTube: el usuario tiene canal; no se pudo revisar y se deja.
 - No se puede entrar al Discord manualmente; la alternativa es usar el token de AmberBot más adelante.
 - Se añade a la sesión el repo `oddchunks-ctrl/amberbot` y se resume (sección 3d). Se detectan el rol Supporter con bonus de chunks (posible problema con la EULA) y unos registros útiles para medir la fuga.
+- El usuario define la forma de trabajar: **Claude es el organizador, con subroles temáticos, cada uno con su carpeta**. Se crean `CLAUDE.md` y las carpetas `organizacion/`, `marca/`, `marketing/`, `comunidad/`, `negocio/` y `desarrollo/`, con su README. Las capturas pasan a `marketing/capturas/`.
 
 ## 6. Notas para el asistente del proyecto definitivo
 
