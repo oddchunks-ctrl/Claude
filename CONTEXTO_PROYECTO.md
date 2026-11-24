@@ -48,6 +48,20 @@
 - Prioridad 2: un pequeño excedente para mejoras, eventos, premios o beneficio personal.
 - Mantener una carga de trabajo baja: nada de monetización que exija mucho tiempo de gestión.
 - No sacrificar la esencia Vanilla ni la comunidad por ingresos (va contra la EULA y además espantaría al público técnico).
+### Costes actuales (aprox.)
+| Concepto | Coste mensual | Notas |
+|----------|---------------|-------|
+| PebbleHost (8 GB) | ~9 € | Servidor de Minecraft |
+| Railway (AmberBot) | 5 USD (~4,5 €) | Saldo mensual; lo que no se gasta se acumula al mes siguiente |
+| **Total** | **~13,5 €/mes (~160 €/año)** | |
+
+### Objetivos de ingresos propuestos
+- **Nivel 1 – Cubierto:** ~15 €/mes (costes más el margen que se llevan las plataformas de pago).
+- **Nivel 2 – Con margen:** ~25 €/mes (costes más ~10 € para eventos, premios, mejoras o beneficio).
+- Ejemplo para llegar al nivel 2: ~5 apoyos de 3 € y ~2 de 5 € (o combinaciones parecidas).
+- Las plataformas se quedan una comisión (Patreon y Discord se llevan bastante más que Ko-fi): hay que tenerla en cuenta al fijar precios.
+- Si el beneficio crece, revisar las obligaciones fiscales (en España, los ingresos de este tipo también se declaran).
+
 - Modelo recomendado: **suscripción de apoyo recurrente** (Ko-fi, Patreon o suscripciones de servidor de Discord) con recompensas cosméticas o sociales, más donaciones puntuales.
 
 ## 3b. Restricciones a tener en cuenta para el negocio
@@ -77,6 +91,7 @@ Las **Minecraft Usage Guidelines / EULA de Mojang** limitan cómo se puede monet
 - El usuario resume el proyecto: AMBERGATES SMP (ver sección 2). Pide centrar esta sesión en marca, redes y plan de negocio, no en lo técnico.
 - Se apuntan las restricciones de la EULA de Mojang que afectan a la monetización (sección 3b).
 - Objetivo definido: hobby que se pague solo con algo de beneficio extra. Se propone un modelo de apoyo recurrente con recompensas cosméticas o sociales.
+- Costes: PebbleHost ~9 €/mes y Railway 5 USD/mes (acumulable). Total ~13,5 €/mes. Se fijan objetivos de 15 € (cubierto) y 25 € (con margen).
 
 ## 6. Notas para el asistente del proyecto definitivo
 
