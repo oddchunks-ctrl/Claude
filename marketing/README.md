@@ -1,39 +1,39 @@
 # Marketing
+**Misión:** atraer jugadores europeos adecuados con poco tiempo y poco presupuesto.
 
-**Misión:** atraer jugadores europeos adecuados al servidor con poco tiempo y poco presupuesto.
+## Índice
+| Archivo | Contenido |
+|---|---|
+| `calendario-contenido.md` | **Calendario aprobado** desde el 28 nov, con huecos por completar |
+| `videos-pendientes.md` | **Vídeos aprobados** (D2, D3, J1, H3), su estado y notas |
+| `guia-estilo-guiones.md` | Guía maestra para escribir guiones verticales (v0.1) |
+| `ideas-contenido.md` | Banco de ideas, pilares A–J (**no aprobadas**, salvo las marcadas con ✅) |
+| `estadisticas-tiktok.md` | Datos de TikTok Studio y conclusiones |
+| `referencias/` | Material en bruto: transcripciones de 5 TikToks y un POV (`.jpg`) |
+| `capturas/` | Perfil de TikTok de AmberGates a 24 nov (4 `.jpg`) |
 
-## Estado actual
-- **TikTok @ambergates_smp** (2026-11-24): 53 seguidores, 341 seguidos, 44 me gusta y unos 20 vídeos. Capturas en `capturas/`.
-  - Todos los vídeos usan la misma plantilla de anuncio: "Minecraft Vanilla SMP Server [Java] [26.2] [FREE access 24/7] Ip in the comments".
-  - Alcance orgánico de 77 a 650 visualizaciones, a la baja. El vídeo con 15,8 mil fue una **promoción pagada**.
-- **YouTube:** hay canal con contenido parecido. No se ha revisado.
-- Llamada a la acción incoherente: "IP in the comments" en los vídeos frente a "IP at our Discord" en la bio.
-
-## Diagnóstico
-1. Son anuncios, no contenido, así que el algoritmo y la audiencia se cansan.
-2. Interacción muy baja.
-3. El texto grande en el centro tapa el gameplay.
-4. Seguir a muchas más cuentas de las que te siguen da imagen de follow-for-follow.
-
-## Documentos
-- `guia-estilo-guiones.md`: **guía maestra de estilo para guiones de contenido vertical** (v0.1, en construcción).
-- `calendario-contenido.md`: **calendario aprobado** desde el 28 nov (huecos libres por completar).
-- `estadisticas-tiktok.md`: datos de TikTok Studio y primeras lecturas.
-- `videos-pendientes.md`: **vídeos aprobados** y su estado (D2, D3, J1, H3).
-- `ideas-contenido.md`: banco de ideas de contenido por pilares (**no aprobadas**).
-- `referencias/`: transcripciones y capturas de TikToks de referencia.
-- `capturas/`: capturas del perfil de TikTok de AmberGates.
+## Estado (2026-11-24)
+- **TikTok @ambergates_smp:**
+  - 56 seguidores, 342 seguidos, 45 me gusta y unos 20 vídeos con la misma plantilla de anuncio: logo grande en el centro y "Minecraft Vanilla SMP Server [Java] [26.2] [FREE access 24/7] Ip in the comments".
+  - Alcance orgánico de 77 a 650 visualizaciones por vídeo; el vídeo de 15,8 mil fue la promoción pagada.
+  - Bio: "Minecraft 26.2 Vanilla SMP server. (Java) IP at our DISCORD ⬇️" con enlace a Discord. Historia destacada "IP".
+- **YouTube:** canal con contenido parecido, sin revisar.
+- **Diagnóstico:**
+  1. Son anuncios, no contenido: **2,9 s de visualización media y 1 % de vídeos vistos enteros**.
+  2. Casi no hay interacción.
+  3. El texto tapa el gameplay.
+  4. La llamada a la acción es incoherente: "IP in the comments" en los vídeos y "IP at our Discord" en la bio.
+  5. 342 seguidos frente a 56 seguidores da imagen de follow-for-follow.
+- **Lo que funciona:** la marca visual es coherente, todo está en inglés, el 16 % del tráfico llega desde búsquedas y el 31 % de quienes visitan el perfil acaba siguiendo.
 
 ## Pendientes
-- [ ] Calcular el coste por miembro de la promoción pagada (gasto ÷ entradas a Discord).
-- [x] Calendario de contenidos (aprobado el 2026-11-24).
-- [ ] Completar los huecos libres del calendario (10, 17, 19 y 22 dic).
-- [ ] Guiones de D3 y H3 #1 (25–27 nov) y grabar D3 antes del 28 nov.
+- [ ] Guiones de **D3** y **H3 #1** (25–27 nov). **Grabar D3 antes del 28 nov.**
+- [ ] Rellenar los huecos del calendario (10, 17, 19 y 22 dic).
+- [ ] Completar la guía: plantillas de guion, guía visual, descripciones y hashtags.
 
 ## Ideas aparcadas (no aprobadas)
-- Contenido en lugar de anuncios: timelapses, granjas, "día X en AmberGates", construcciones de jugadores.
-- Logo pequeño en una esquina y un solo destino: "Join our Discord – link in bio".
-- Publicar el mismo vídeo en TikTok, YouTube Shorts e Instagram Reels.
-- Ritmo de 2 o 3 vídeos a la semana, grabados en bloque y programados.
-- No volver a pagar promociones hasta tener un vídeo de contenido que funcione bien de forma orgánica.
+- Logo pequeño en una esquina y una llamada a la acción única: "Join our Discord — link in bio".
+- Dejar de seguir cuentas en masa.
+- Publicar también en YouTube Shorts e Instagram Reels.
 - Listas de servidores y Reddit (r/mcservers, r/MinecraftBuddies).
+- Volver a pagar promociones solo con un vídeo que ya funcione bien sin pagar.
