@@ -141,6 +141,30 @@ Con unos 30 usuarios activos, **demasiados canales dispersan la actividad**. Pro
 - **Más adelante:** `#support-the-server` (Ko-fi y barra de objetivo mensual)
 - Mover los mensajes de bienvenida del sistema fuera de `#general` (a `#welcome` o desactivarlos).
 
+## 3d. AmberBot: resumen del repositorio (revisado 2026-11-24)
+
+> Repo privado `oddchunks-ctrl/amberbot`, rama de despliegue `codex/main` (Railway despliega automáticamente al subir cambios). Versión **0.8.0**.
+> Aquí no se copian IPs, IDs ni secretos; están en el propio repo y en su README.
+
+- **Stack:** Node.js 22, discord.js 14.22.1, SQLite en un volumen de Railway (`/data`), región EU West. Tiene tests (`npm test`) y GitHub Actions (validate + tests).
+- **Desarrollo:** hecho con Codex. El README es un registro cronológico muy largo y remite a documentos de la carpeta del proyecto en el PC que **no están en este repo**: `../ESTADO_PROYECTO.md`, `../discord.md`, `../HOSTING.md`, `../REGLAS_SERVIDOR.md`, `../Rangos-fabric/`.
+- **Qué hace:**
+  1. **Onboarding nativo de Discord** con tres tarjetas en inglés ("Sounds good" → "Let's build together" → "Ready to link"). Antes de verificarse solo se ven `#welcome` y `#rules`.
+  2. **Vinculación de Java:** formulario con el nombre de usuario → consulta a la API de Mojang para obtener el UUID → rol **Member** → `whitelist add` por RCON → solo entonces muestra la IP. No hay prueba de que la cuenta sea del usuario (decisión de la versión actual).
+  3. Comando `!ip`, **sugerencias en hilos privados** y anuncios de ascensos en `#general`.
+  4. **Sincronización de roles Discord ↔ Minecraft** con el mod propio *Rangos*.
+- **Roles y colores:** Member `#C7C2B8` · Honored `#D99545` (ámbar) · Elite `#FF5555` · Supporter `#F0CC6B` (dorado) · MOD `#57B86B`. Member, Honored y Elite son excluyentes entre sí; Supporter y MOD se pueden combinar con ellos.
+- **Progresión:** Honored se consigue automáticamente (4096 bloques, 600 monstruos y 7 días con al menos 30 minutos activos, según el mod *Statistics*). Elite es manual.
+- **Mods propios del servidor citados:** *Rangos*, *Statistics*, *Propiedades* (protecciones por chunks con `/trust`; `/inspect` con 30 días de historial).
+- **Normas** (`config/rules.en.md`, 9 normas): juego cooperativo; claims; zonas comunitarias gestionadas por el staff; PvP solo si ambos aceptan; **borde del mundo de 5.000 bloques que irá creciendo**; **el End está cerrado hasta derrotar juntos al dragón** en fecha por decidir; nada de trampas; cuidar el rendimiento; los conflictos se resuelven con el staff.
+
+### Observaciones relevantes para el negocio y la admisión (sin aplicar nada)
+- **Ya existe el rol Supporter** (internamente `patreon`), así que la base para un sistema de apoyo económico está hecha.
+- ⚠️ **Posible problema con la EULA:** según el README, **Supporter recibe más chunks protegidos (32 frente a 20)**. Más terreno protegido por pagar podría considerarse una **ventaja de juego**, y las normas de Mojang lo prohíben. Hay que revisarlo antes de monetizar.
+- **Datos para comprobar la teoría de los no premium:** AmberBot ya registra los eventos `admission_link_failed` y `minecraft_profile_lookup` con la causa del fallo. Consultando la SQLite de Railway se puede saber cuántos intentos fallan y por qué.
+- **Matiz sobre los no premium:** si un jugador no premium escribe un nombre que **sí existe** (de otra persona con cuenta premium), la API de Mojang lo da por válido. Esa persona quedaría vinculada y en la whitelist, pero no podría entrar al juego. Esto haría que la fuga también aparezca **después** de vincular, y además permite apropiarse del nombre de otro jugador.
+- La "historia" del mundo (borde que crece, End cerrado hasta un evento comunitario) es **muy buen material de marca y de contenido**.
+
 ## 3b. Restricciones a tener en cuenta para el negocio
 
 Las **Minecraft Usage Guidelines / EULA de Mojang** limitan cómo se puede monetizar un servidor (conviene revisar la versión vigente):
@@ -157,7 +181,10 @@ Las **Minecraft Usage Guidelines / EULA de Mojang** limitan cómo se puede monet
 - [ ] Definir la estrategia de redes sociales.
 - [ ] Esbozar el plan de negocio / monetización.
 - [ ] Clonar / adjuntar el repositorio real cuando el usuario tenga acceso al PC.
-- [ ] Compartir el repositorio de AmberBot.
+- [x] Compartir el repositorio de AmberBot (añadido a la sesión y revisado; ver sección 3d).
+- [ ] Revisar si el bonus de chunks para Supporter cumple la EULA.
+- [ ] Consultar en la SQLite de AmberBot los fallos de vinculación para medir la fuga.
+- [ ] Traer al proyecto definitivo los documentos del PC: `ESTADO_PROYECTO.md`, `discord.md`, `HOSTING.md`, `REGLAS_SERVIDOR.md` y los mods (`Rangos-fabric`, Statistics, Propiedades).
 - [ ] Adjuntar este documento al nuevo proyecto.
 
 ## 5. Registro cronológico de la conversación
@@ -176,6 +203,10 @@ Las **Minecraft Usage Guidelines / EULA de Mojang** limitan cómo se puede monet
 - Revisión de Discord (sección 3c): 52 miembros. Whitelist automática al vincular la cuenta de Java con AmberBot por RCON. Se detectan un `#general` lleno de mensajes de entrada, una errata, un posible abandono en la verificación y que faltan canales de comunidad. Se propone una estructura nueva.
 - El usuario aclara que las capturas eran **solo de contexto**. Las sugerencias sobre Discord quedan aparcadas para más adelante. Preferencia: mientras da contexto, **escuchar y registrar sin proponer cambios** salvo que lo pida.
 - Teoría del usuario: la fuga en la verificación se debe a jugadores con Minecraft no premium (sección 3c).
+- Decisión: solo cuentas premium. Objetivo: mejorar la admisión manteniendo obligatorio el vínculo Discord ↔ Minecraft en la whitelist.
+- YouTube: el usuario tiene canal; no se pudo revisar y se deja.
+- No se puede entrar al Discord manualmente; la alternativa es usar el token de AmberBot más adelante.
+- Se añade a la sesión el repo `oddchunks-ctrl/amberbot` y se resume (sección 3d). Se detectan el rol Supporter con bonus de chunks (posible problema con la EULA) y unos registros útiles para medir la fuga.
 
 ## 6. Notas para el asistente del proyecto definitivo
 
