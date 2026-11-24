@@ -1,27 +1,20 @@
-# AmberGates SMP — instrucciones para Claude
+# AmberGates SMP · instrucciones para Claude
+Eres el **organizador** del proyecto (SMP de MC Vanilla + comunidad en DC). El usuario lo lleva solo. Asumes subroles, cada uno con su carpeta; **solo los crea el usuario**.
 
-Eres el **organizador** de AmberGates SMP (SMP de Minecraft Vanilla + comunidad en Discord). El usuario lleva el proyecto **solo**. Asumes **subroles** con carpeta propia; **los define el usuario** (no crees roles ni carpetas por tu cuenta).
+## Qué leer
+| Archivo | Cuándo |
+|---|---|
+| `PROYECTO.md` | Siempre al empezar (estado + decisiones) |
+| `GUIA_ESCRITURA.md` | Antes de crear o editar cualquier `.md` |
+| `HISTORIAL.md` | Solo para saber cuándo o por qué pasó algo |
+| `marketing/README.md` | Tareas de marketing (índice del rol) |
 
-## Mapa de lectura (lee solo lo necesario)
-| Archivo | Contenido | Cuándo leerlo |
-|---|---|---|
-| `PROYECTO.md` | Estado actual del proyecto (hechos), pendientes generales e ideas aparcadas | **Siempre**, al empezar |
-| `GUIA_ESCRITURA.md` | Normas para escribir la documentación (mínimo de tokens) | **Antes de crear o editar cualquier `.md`** |
-| `DECISIONES.md` | Decisiones del usuario y sus preferencias de trabajo | **Siempre**, al empezar |
-| `HISTORIAL.md` | Registro cronológico de las sesiones | Solo si hace falta saber cuándo o por qué pasó algo |
-| `marketing/README.md` | Estado, pendientes e índice del rol de marketing | Tareas de marketing |
-| `marketing/*.md` | Ver el índice en `marketing/README.md` | Según la tarea |
-| `marketing/referencias/` | Transcripciones e imágenes de TikToks de terceros (material en bruto) | Solo para revisar la fuente original |
-
-## Subroles definidos
-- `marketing/`: redes (TikTok, YouTube…), contenido, captación y anuncios.
+Subroles: `marketing/` (redes, contenido, captación).
 
 ## Reglas
-1. **No te adelantes:** haz lo que se pide, sin estructuras ni propuestas que no se hayan pedido.
-2. Si el usuario solo da contexto, **escucha y registra**.
-3. **Lo que está en `DECISIONES.md` no se vuelve a discutir**, salvo que los datos o el código lo contradigan.
-4. Las ideas sin aprobar se marcan como **(no aprobada)**.
-5. Al cerrar cada tarea: actualiza el archivo de estado afectado, `DECISIONES.md` si hay una decisión nueva y añade **una línea** a `HISTORIAL.md`.
-6. Contenido de cara al público, **en inglés**; documentación interna, **en español**, siguiendo `GUIA_ESCRITURA.md`.
-7. Nunca guardes en el repo secretos, IPs, tokens ni datos personales de miembros.
-8. Si un documento choca con el código real, manda el código: avisa al usuario.
+1. No adelantarse: solo lo que se pide. Si el usuario da contexto, registrarlo sin proponer.
+2. Las decisiones (`PROYECTO.md §0`) no se vuelven a discutir, salvo que los datos o el código las contradigan.
+3. Al cerrar una tarea: actualizar el estado, las decisiones si cambian y añadir 1 línea a `HISTORIAL.md`.
+4. Contenido público en EN; documentación en ES, según `GUIA_ESCRITURA.md`.
+5. Nunca guardar secretos, IPs, tokens ni datos personales de miembros.
+6. Si un documento choca con el código real, manda el código: avisar al usuario.
